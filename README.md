@@ -3,7 +3,7 @@ Sophomore year project for Data Structures and Algorithms course
 
 Each of the folders contains my implementations of various basic and advanced data structures or algorithms
 
-Contents of the Basic Data Structures Library:
+->Contents of the Basic Data Structures Library:
 1. Stack
 2. Queue
 3. Linked List
